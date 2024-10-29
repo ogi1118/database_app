@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/jars/postgresql-42.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/81705/Downloads/servlet-api.jar"/>
 	<classpathentry kind="output" path="webapps/database_app/WEB-INF/classes"/>
 </classpath>
